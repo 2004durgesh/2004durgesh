@@ -6,7 +6,7 @@
 
 [![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2004durgesh&show_icons=true&theme=github_dark)](https://github.com/2004durgesh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2004durgesh&layout=compact&theme=github_dark)](https://github.com/2004durgesh)
-[![GitHub Streak](https://streak-stats.demolab.com?user=2004durgesh&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://github.com/2004durgesh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=2004durgesh&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://github.com/2004durgesh)
 [![trophy](https://github-profile-trophy.vercel.app/?username=2004durgesh&theme=onedark&row=2&column=3&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Tech Stack
