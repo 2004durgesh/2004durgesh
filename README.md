@@ -1,6 +1,18 @@
 # Hi there, I'm Durgesh 👋
 
 **I'm a passionate developer who loves contributing to open-source projects, exploring new technologies, and building creative solutions.**
+## 🚀 About Me
+
+- 🔭 Currently building: Feature-rich streaming apps like [Uwumi](https://github.com/uwumilabs/uwumi) and APIs for [anime/movie](https://github.com/uwumilabs/react-native-consumet) discovery.
+- 🌱 Learning: Advanced React Native optimizations and Rust.
+- 💬 Ask me about: react-native, anime, and anything in general.
+- ⚡ Fun fact: I've streamed over 500 episodes of anime while debugging code—multitasking at its finest!
+- 📫 How to reach me:           👇 
+  
+[![LinkedIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/durgesh-kumar-dwivedi-7651a1271/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/2004durgesh)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/n7xVPxbG4R)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/2004durgesh)
 
 ---
 
@@ -18,12 +30,7 @@
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/durgesh-kumar-dwivedi-7651a1271/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/your-linkedin-profile/)
-
-Feel free to connect with me or check out some of my projects!
+Feel free to reach out for collaborations, code reviews, or just to chat about the latest anime drops. Contributions welcome—fork, star, and PR away! ⭐
 
 
 <!--
